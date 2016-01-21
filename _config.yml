@@ -1,0 +1,28 @@
+name: Own Your Faith
+favicon: null
+layout_spectrum: 0.13067884626798332
+typography_spectrum: 0.9593679585959762
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5285122510977089
+  lightness: 0.6104581661056727
+  saturation: 0.7744077041279525
+  rhythmicContrast: 0.7595442226156592
+purpose: []
