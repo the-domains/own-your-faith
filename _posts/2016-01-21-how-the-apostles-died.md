@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: How the Apostles of Jesus Christ Died
-datePublished: '2016-01-22T05:45:11.336Z'
+datePublished: '2016-01-22T05:45:11.457Z'
 dateModified: '2016-01-22T05:45:02.109Z'
 title: How Did the 12 Apostles Die?
 author: []
